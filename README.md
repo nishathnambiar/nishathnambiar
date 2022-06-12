@@ -8,3 +8,8 @@
 nishathnambiar/nishathnambiar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+My Skills
+1. Angular
+2. Lit
+3. Javascript
+4. Python
